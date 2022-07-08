@@ -1,0 +1,48 @@
+
+Pengertian Google Dork
+
+Google Dork merupakan suatu teknik yang memanfaatkan mesin pencarian Google untuk mendapatkan berbagai informasi penting atau sensitif yang tidak tersedia secara umum di dalam web. Google Dork dapat dimanfaatkan untuk kedua sisi baik dan jahat. Pada kesempatan kali ini, kita akan belajar cara memanfaatkan Google Dork dengan tujuan yang baik, misalnya untuk mencari suatu karya tulis ilmiah atau paper. Untuk menggunakan Google Dork, kita dapat menggunakan parameter pencarian yang diketikkan ke dalam kolom pencarian Google.
+sumber : https://student-activity.binus.ac.id/csc/2021/09/google-dork/
+
+
+
+teknik google dork atau "GoogleDorking" sering digunakan oleh orang orang untuk berbagai keperluan seperti  redaksi berita, organisasi investigasi, auditor keamanan website,  bahkan yang paling parah hecker teknologi untuk mencari kerentanan informasi yang disembunyikan di situs publik
+sumber: https://www.elinotes.com/2021/03/google-dork-keyword.html?m=1
+
+
+
+Apa Saja yang Bisa Dimanfaatkan dengan Dork?
+
+Temukan informasi sensitif (email yang disimpan secara online, kata sandi, dll).
+
+Temukan halaman otentikasi aplikasi web.
+
+Temukan peralatan yang terhubung ke Internet (kamera video, router Internet, printer, tetapi juga peralatan industri, dll).
+
+Temukan server web yang tidak dikonfigurasi dengan benar, atau diinstal secara default.
+
+Temukan teknologi atau alat di server web (phpmyadmin, phpinfo (), area administrasi situs, dll).
+
+Temukan kerentanan yang memungkinkan target diretas.
+
+Temukan informasi tertentu (OSINT)
+Sumber: https://www.xptch.my.id/2021/12/menggunakan-google-dork-untuk-optimasi.html?m=1
+
+
+
+Google Dork Adalah Mesin Untuk Mencari/Screach Engines Sehingga Dapat  Memudahkan GooGle Untuk Mencari Alamat,password,dll Bisa Terindex di Google.
+Sumber: https://techno-evolutioner.blogspot.com/2017/03/belajar-google-dork.html?m=1
+
+
+
+Sederhananya, Google Dork adalah teknik memanfaatkan mesin pencarian Google guna mendapatkan informasi sensitif yang tidak ada dalam web. Sebenarnya Google Dork bisa dimanfaatkan untuk hal positif, namun tak jarang para peretas juga memanfaatkannya untuk tujuan jahat.
+Sumber: https://kharismaworld.co.id/blog/google-dork-adalah#:~:text=Sederhananya%2C%20Google%20Dork%20adalah%20teknik,juga%20memanfaatk
+
+
+
+
+
+
+
+
+

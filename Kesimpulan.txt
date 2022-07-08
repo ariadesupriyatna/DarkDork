@@ -1,0 +1,13 @@
+
+
+Google Dorking merupakan bagian integral dari pengumpulan informasi rahasia dan proses analisisnya.
+
+Ini dapat dianggap sebagai salah satu alat OSINT paling root dan utama. Operator Google Dorking membantu baik dalam menguji server mereka sendiri 
+
+dan dalam menemukan semua kemungkinan informasi tentang calon korban. Ini memang contoh yang sangat mencolok dari penggunaan mesin pencari yang benar untuk tujuan mengeksplorasi informasi tertentu.
+
+Namun, apakah niat untuk menggunakan teknologi ini baik (memeriksa kerentanan sumber daya Internet mereka sendiri) 
+
+atau buruk (mencari dan mengumpulkan informasi dari berbagai sumber dan menggunakannya untuk tujuan ilegal),
+
+tetap hanya pengguna yang memutuskan.
